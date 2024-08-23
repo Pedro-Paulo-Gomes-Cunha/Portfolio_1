@@ -1,0 +1,48 @@
+html {
+  font-size: 14px;
+}
+
+/* import fonts */
+@font-face {
+    font-family: ostrich-sans-inline-regular;
+    src: url('../fonts/ostrich-sans-inline-regular.eot'), url('custom_fonts/ostrich-sans-inline-regular.ttf') format('truetype'), url('custom_fonts/ostrich-sans-inline-regular.woff');
+}
+
+@font-face {
+    font-family: Aaargh;
+    src: url('../fonts/Aaargh.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: Cabin-Regular;
+    src: url('../fonts/Cabin-Regular.otf') format('opentype');
+}
+
+@font-face {
+    font-family: raleway_thin-webfont;
+    src: url('../fonts/raleway_thin-webfont.eot'), url('../fonts/raleway_thin-webfont.ttf') format('truetype'), url('../fonts/raleway_thin-webfont.woff');
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+}
+.full {
+    background-image: url(../assets/images/buildings.jpeg);
+    --webkit-background-size: cover;
+    --moz-background-size: cover;
+    background-size: cover;
+    --o-background-size: cover;
+    z-index: 3;
+}
+

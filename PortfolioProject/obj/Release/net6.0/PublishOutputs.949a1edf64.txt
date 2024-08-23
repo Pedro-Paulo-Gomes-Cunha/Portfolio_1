@@ -1,0 +1,7 @@
+C:\Users\Pedro Gomez\Desktop\CENTRO MADALUISA\PortfolioProject\PortfolioProject\obj\Release\net6.0\PubTmp\Out\PortfolioProject.exe
+C:\Users\Pedro Gomez\Desktop\CENTRO MADALUISA\PortfolioProject\PortfolioProject\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Pedro Gomez\Desktop\CENTRO MADALUISA\PortfolioProject\PortfolioProject\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\Pedro Gomez\Desktop\CENTRO MADALUISA\PortfolioProject\PortfolioProject\obj\Release\net6.0\PubTmp\Out\PortfolioProject.dll
+C:\Users\Pedro Gomez\Desktop\CENTRO MADALUISA\PortfolioProject\PortfolioProject\obj\Release\net6.0\PubTmp\Out\PortfolioProject.deps.json
+C:\Users\Pedro Gomez\Desktop\CENTRO MADALUISA\PortfolioProject\PortfolioProject\obj\Release\net6.0\PubTmp\Out\PortfolioProject.runtimeconfig.json
+C:\Users\Pedro Gomez\Desktop\CENTRO MADALUISA\PortfolioProject\PortfolioProject\obj\Release\net6.0\PubTmp\Out\PortfolioProject.pdb
