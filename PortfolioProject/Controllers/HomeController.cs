@@ -47,9 +47,9 @@ namespace PortfolioProject.Controllers
             {
                 try
                 {
-                    var fromAddress = new MailAddress("pedrogomesskeell@gmail.com", "pedro gomes skeell");
-                    var toAddress = new MailAddress("pedrogomesskeell@gmail.com", "pedro gomes skeell");
-                    const string fromPassword = "bwidpifolhiggcfo";
+                    var fromAddress = new MailAddress("pedrogomesskeell@gmail.com", "##");
+                    var toAddress = new MailAddress("pedrogomesskeell@gmail.com", "##");
+                    const string fromPassword = "####";
                     const string subject = "Contact from Site";
                     string body = $"Company Name: {model.CompanyName}\nEmail: {model.Email}\nMessage: {model.Message}";
 
